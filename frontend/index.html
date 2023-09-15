@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="module" src="./src/main.ts" defer></script>
+    <title>NBA all star</title>
+  </head>
+  <body class="bg-gray-100 p-4">
+    <h1 class="text-2xl font-bold mb-4">NBA All-Star Voting</h1>
+    
+    <input type="text" id="teamFilter" class="border border-gray-300 p-2 rounded-md mb-4" placeholder="Csapat szűrése...">
+
+    <ul id="teams-list" class="space-y-4">
+    </ul>
+
+    <ul id="players-list" class="space-y-4">
+    </ul>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script type="module" src="/src/main.ts" defer></script>
+</body>
+</html>

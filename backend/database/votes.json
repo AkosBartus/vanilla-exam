@@ -1,3 +1,26 @@
 [
-
+  {
+    "userId": "user123",
+    "playerId": 2533
+  },
+  {
+    "userId": "user123",
+    "playerId": 3455
+  },
+  {
+    "userId": "user123",
+    "playerId": 2344
+  },
+  {
+    "userId": "user123",
+    "playerId": 6334
+  },
+  {
+    "userId": "user123",
+    "playerId": 8777
+  },
+  {
+    "userId": "user123",
+    "playerId": 8083
+  }
 ]
